@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  HenriPotier
+
+  Created by Thomas Lupo on 22/09/2020.
+  Copyright © 2020 Idally. All rights reserved.
+*/
+
+"global.app.name" = "Henri Potier";
+"global.ok" = "OK";
+"global.error.unknown" = "An error occured. Please try again";
+
+"books.title" = "Library";
+"book.price" = "%.02f€";
+
+"cart.title" = "Cart";
+"cart.error.empty" = "You need to add at least one book to initialize your cart";
+
+"cart.initialAmount.title" = "Initial amount:";
+"cart.initialAmount.value" = "%.02f€";
+
+"cart.amount.title" = "Final amount:";
+"cart.amount.value" = "%.02f€";
+
+"cart.discount.title" = "Discount:";
+"cart.discount.value" = "%.02f€";
